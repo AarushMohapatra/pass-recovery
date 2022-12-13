@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDJhzwo_nAyUIdqxSDzGNyL4QeRy_GWk2Q",
-  authDomain: "login-cb19c.firebaseapp.com",
-  databaseURL: "https://login-cb19c-default-rtdb.firebaseio.com",
-  projectId: "login-cb19c",
-  storageBucket: "login-cb19c.appspot.com",
-  messagingSenderId: "35014884101",
-  appId: "1:35014884101:web:075f7824e9021984c7556c"
+  apiKey: "AIzaSyCRn2__3N8UfB5bb0NDPhtk1EwfIh7Bx_g",
+  authDomain: "pass-checkout.firebaseapp.com",
+  databaseURL: "https://pass-checkout-default-rtdb.firebaseio.com/",
+  projectId: "pass-checkout",
+  storageBucket: "pass-checkout.appspot.com",
+  messagingSenderId: "829994500654",
+  appId: "1:829994500654:web:d1bd571ce02e9a285495bf"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
